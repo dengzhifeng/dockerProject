@@ -1,3 +1,5 @@
+docker demo 使用 构建一个 nginx 的镜像 镜像包含打包好的代码
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

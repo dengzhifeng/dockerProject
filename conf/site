@@ -1,0 +1,5 @@
+server {
+    listen       8090;
+    server_name  _;
+    root         /etc/nginx/html;
+}
